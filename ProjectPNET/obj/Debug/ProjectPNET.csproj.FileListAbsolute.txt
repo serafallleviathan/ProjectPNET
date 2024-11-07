@@ -1,0 +1,15 @@
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.csproj.AssemblyReference.cache
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.formproject.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.Properties.Resources.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.csproj.GenerateResource.cache
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.csproj.CoreCompileInputs.cache
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\bin\Debug\ProjectPNET.exe.config
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\bin\Debug\ProjectPNET.exe
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\bin\Debug\ProjectPNET.pdb
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.FormHome.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.exe
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.pdb
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.FormPasien.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.FormJadwal.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.FormProfile.resources
+C:\Users\SUROTO\source\repos\ProjectPNET\ProjectPNET\obj\Debug\ProjectPNET.FormDokter.resources
