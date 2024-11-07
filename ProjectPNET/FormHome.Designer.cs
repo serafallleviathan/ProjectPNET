@@ -63,6 +63,7 @@ namespace ProjectPNET
             this.btndokter.TabIndex = 2;
             this.btndokter.Text = "Dokter";
             this.btndokter.UseVisualStyleBackColor = true;
+            this.btndokter.Click += new System.EventHandler(this.btndokter_Click);
             // 
             // btnjadwal
             // 
@@ -72,6 +73,7 @@ namespace ProjectPNET
             this.btnjadwal.TabIndex = 3;
             this.btnjadwal.Text = "Jadwal";
             this.btnjadwal.UseVisualStyleBackColor = true;
+            this.btnjadwal.Click += new System.EventHandler(this.btnjadwal_Click);
             // 
             // btnprofile
             // 
@@ -81,6 +83,7 @@ namespace ProjectPNET
             this.btnprofile.TabIndex = 4;
             this.btnprofile.Text = "Profile";
             this.btnprofile.UseVisualStyleBackColor = true;
+            this.btnprofile.Click += new System.EventHandler(this.btnprofile_Click);
             // 
             // FormHome
             // 

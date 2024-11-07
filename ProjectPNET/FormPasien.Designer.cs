@@ -29,24 +29,24 @@ namespace ProjectPNET
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.titlepasien = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // label1
+            // titlepasien
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(361, 58);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.titlepasien.AutoSize = true;
+            this.titlepasien.Location = new System.Drawing.Point(361, 58);
+            this.titlepasien.Name = "titlepasien";
+            this.titlepasien.Size = new System.Drawing.Size(39, 13);
+            this.titlepasien.TabIndex = 0;
+            this.titlepasien.Text = "Pasien";
             // 
             // FormPasien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.titlepasien);
             this.Name = "FormPasien";
             this.Text = "FormPasien";
             this.ResumeLayout(false);
@@ -56,6 +56,6 @@ namespace ProjectPNET
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label titlepasien;
     }
 }
